@@ -1,7 +1,9 @@
 # HouseRescue
 Fun Unity platformer game made for Global Game Jam 2019
 
-![]()
+
+![](https://raw.githubusercontent.com/RodrigoRosmaninho/HouseRescue/master/Assets/Resources/scene%20sprites/Menu-back.png)
+
 
 [https://globalgamejam.org/2019/games/home-rescue](https://globalgamejam.org/2019/games/home-rescue)
 
