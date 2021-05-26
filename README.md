@@ -24,4 +24,4 @@ Level Design:
 - Alexandre Correia
 
 Art:
-- Diogo Correia
+- [Diogo Correia](https://github.com/digas99)
